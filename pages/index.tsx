@@ -137,7 +137,7 @@ const Home: NextPage = () => {
             )}
 <p className={`${styles.centeredText}`}>Step into the world of the Reggae Groupies, where soulful beats and positive energy collide, creating a community of like-minded souls, embracing the philosophy of "one love" and spreading positivity like wildfire. Being a Reggae Groupie means immersing yourself in a culture that celebrates freedom, love, and the power of reggae music to heal, uplift spirits, & ignite the dance floor.</p>
 <p className={`${styles.limitText}`}>LIMITED TO ONE PURCHASE PER EMAIL ADDRESS</p>
-            <p>Price: 50&cent;</p>
+<p>Price: $150</p>
           </div>
           {clientSecret && (
             <Elements options={options} stripe={stripe}>
