@@ -13,9 +13,9 @@
   "dependencies": {
     "@stripe/react-stripe-js": "^2.1.0",
     "@stripe/stripe-js": "^1.52.1",
-    "@thirdweb-dev/react": "~3.10.0",
-    "@thirdweb-dev/sdk": "~3.10.0",
-    "ethers": "^5.7.2",
+    "@thirdweb-dev/react": "^3.14.40",
+    "@thirdweb-dev/sdk": "^3.10.62",
+    "ethers": "^5",
     "micro": "^10.0.1",
     "mongoose": "^7.2.1",
     "next": "^13",
@@ -29,7 +29,7 @@
     "typescript": "^4.9.4"
   },
   "resolutions": {
-    "@thirdweb-dev/react-core": "~3.10.0",
-    "@thirdweb-dev/auth": "3.0.7"
+    "@thirdweb-dev/react-core": "3.14.40",
+    "@thirdweb-dev/auth": "3.2.40"
   }
 }
